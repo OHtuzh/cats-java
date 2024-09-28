@@ -45,7 +45,7 @@ __consumer_offsets 11 0
 cat-add-friend-response 0 0
 owner-delete 0 0
 cat-read-response 0 0
-__consumer_offsets 13 15
+__consumer_offsets 13 16
 __consumer_offsets 2 0
 __consumer_offsets 43 0
 __consumer_offsets 6 0
@@ -61,11 +61,11 @@ owner-delete-response 0 0
 owner-read-response 0 0
 __consumer_offsets 45 0
 __consumer_offsets 1 0
-__consumer_offsets 5 11
+__consumer_offsets 5 12
 __consumer_offsets 26 0
 cat-delete-response 0 0
 __consumer_offsets 29 0
-__consumer_offsets 34 10
+__consumer_offsets 34 11
 __consumer_offsets 10 0
 __consumer_offsets 32 0
 __consumer_offsets 40 0
